@@ -1,0 +1,8 @@
+Clusters:
+
+A cluster is a group of computers that work as a single machine in compliance with each other. It is operated by the operating system.
+These clusters enable high availability and share resources to support parallel processing and load balancing.
+Any file stored on a hard disk occupies one or more clusters of storage.A cluster is a logical unit.
+
+Hadoop Clusters:
+Hadoop cluster is a special type of cluster used for storing and analyzing large datasets. The data may be structured or unstructured. A hadoop cluster consists of low cost commodity computers, unlike high end servers. In the cluster,one machine is designated as Name Node and other commodity nodes are called job trackers.They may also be called Data Nodes. Hadoop cluster increases the speed of analyzing data and makes it manageable.
