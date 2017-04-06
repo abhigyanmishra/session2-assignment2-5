@@ -1,0 +1,4 @@
+Racks are the holders forhadoop clusters.They consist of slave machines with a rack switch at the top of each rack.
+Every slave machine has wires coming out from its two ends.It is basically a collection of many nodes that are connected to the same network switch.This implies that all the nodes are rack-aware.
+The network bandwidth between two nodes on different racks is les than the network bandwidth between between two nodes on the same rack.
+Racks are very useful for checking for replication and fult tolerance.This is done by replicating the data of one node on another node in a different rack.A pipelime is thus built in this manner.
